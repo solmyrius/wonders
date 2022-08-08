@@ -2,4 +2,4 @@
 
 This Map illustrates capabilities of Mapbox vector tiles with embedded data
 
-![alt text](https://github.com/sergenam/wonders/blob/master/screen.png?raw=true)
+![World wonders screen](https://github.com/solmyrius/wonders/blob/master/screen.png?raw=true)
